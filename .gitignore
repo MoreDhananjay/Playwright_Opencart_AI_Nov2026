@@ -13,7 +13,7 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
-#reports
+#reports which needs to be ignored
 /reports/
 /allure-report/
 /allure-results/
