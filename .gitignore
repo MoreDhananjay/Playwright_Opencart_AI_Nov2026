@@ -17,7 +17,7 @@ node_modules/
 /reports/
 /allure-report/
 /allure-results/
-/custom-reports/
+/custom-report/
 #Tool/IDE config
 .claude
 .playwright-cli/
